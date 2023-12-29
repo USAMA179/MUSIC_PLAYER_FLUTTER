@@ -21,11 +21,7 @@ Include some attractive screenshots of your app to give potential users a visual
 
 These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes.
 
-### Prerequisites
 
-- Flutter: Make sure you have Flutter installed. [Install Flutter](https://flutter.dev/docs/get-started/install)
-- Clone this repository: `git clone https://github.com/yourusername/your-repo.git`
-- Navigate to the project directory: `cd your-repo`
 
 ### Dependencies
 
