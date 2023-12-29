@@ -2,11 +2,11 @@
 
 A Flutter music streaming application that allows users to play audio files from local storage. The app features a beautiful neumorphic UI design and provides a smooth user experience for browsing and playing music.
 
-## Screenshots
+<!-- ## Screenshots
 
 Include some attractive screenshots of your app to give potential users a visual preview of your project's interface.
 
-<img src="demo.png">
+<img src="demo.png"> -->
 
 ## Features
 
